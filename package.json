@@ -1,6 +1,6 @@
 {
-    "title": "Grayscale",
-    "name": "startbootstrap-grayscale",
+    "title": "Contact Card",
+    "name": "soriphoono-contact-card",
     "version": "7.0.6",
     "scripts": {
         "build": "npm run clean && npm run build:pug && npm run build:scss && npm run build:scripts && npm run build:assets",
@@ -12,7 +12,7 @@
         "start": "npm run build && node scripts/start.js",
         "start:debug": "npm run build && node scripts/start-debug.js"
     },
-    "description": "A grayscale one page HTML theme for Bootstrap.",
+    "description": "A personal about and contact page for my freelancing work.",
     "keywords": [
         "css",
         "sass",
@@ -23,17 +23,17 @@
     ],
     "homepage": "https://startbootstrap.com/theme/grayscale",
     "bugs": {
-        "url": "https://github.com/StartBootstrap/startbootstrap-grayscale/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/soriPhoono/contact-card/issues",
+        "email": "soriphoono@gmail.com"
     },
-    "license": "MIT",
-    "author": "Start Bootstrap",
+    "license": "BSD-2-Clause",
+    "author": "Sori Phoono",
     "contributors": [
-        "David Miller (https://davidmiller.io/)"
+        "Sori Phoono (soriphoono@gmail.com)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/StartBootstrap/startbootstrap-grayscale.git"
+        "url": "https://github.com/soriPhoono/contact-card.git"
     },
     "dependencies": {
         "bootstrap": "5.2.3"
